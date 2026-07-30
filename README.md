@@ -8,6 +8,3 @@ I'm Maksim, a full-stack web developer 👨‍💻 building modern and scalable 
 ![](https://github-readme-stats.shion.dev/api?username=Verninonaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Verninonaw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Verninonaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Verninonaw&icon=0&color=0)](https://visitcount.itsvg.in)
