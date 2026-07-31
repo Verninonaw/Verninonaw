@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./verbrannt.png" style="width: 100%;" />
+  <img src="./verbranntt.png" style="width: 100%;" />
 </div>
 # 💫 About Me:
 I'm Maksim, a full-stack web developer 👨‍💻 building modern and scalable applications with React & TypeScript 🚀<br><br>🔭 I’m currently working as a freelance developer<br><br>💻 I work with both frontend and backend technologies<br><br>❓ Ask me anything about my stack and related technologies
